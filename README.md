@@ -1,36 +1,34 @@
-E-commerce Sales Dashboard
+E-commerce Sales Dashboard Analysis
 
-Objective: The goal of this project is to create an interactive and insightful E-commerce Sales Dashboard using Power BI. This dashboard aims to help businesses analyze sales data, understand sales trends, and make data-driven decisions by visualizing key metrics such as total sales, profit, product category performance, and customer buying patterns. It provides an intuitive way to track sales performance across different states, categories, and payment modes, enabling better strategic planning.
-
-Overview: This project is an E-commerce Sales Dashboard created using Power BI. It provides visual insights into sales data, including total sales, profit, quantities sold, and various breakdowns by state, category, and payment modes. The dashboard allows businesses to make data-driven decisions by analyzing sales patterns over different months and customer segments.
+Objective: The primary goal of your project is to create an interactive and insightful E-commerce Sales Dashboard using Power BI to help businesses analyze sales data, understand trends, and make data-driven decisions.
 
 Dashboard Features:
 
 Key Metrics Cards:
 
-Sum of Total Sales Amount
+Sum of Total Sales Amount: 438K
 
-Total Profit
+Total Profit: 37K
 
-Total Quantity Sold
+Total Quantity Sold: 5615
 
-Average Order Value (AOV)
+Average Order Value (AOV): 121K
 
 Bar Charts & Graphs:
 
-Sum of Sales Amount by State
+Sum of Sales Amount by State (e.g., Maharashtra, Madhya Pradesh, Uttar Pradesh, Delhi)
 
-Profit by Month
+Profit by Month (e.g., high profits in January, February, March, December; losses in May, June)
 
-Sales Amount by Customer Name
+Sales Amount by Customer Name (e.g., Harjyot, Madhavi, Madam Mon…, Vishakha)
 
-Profit by Sub-Category
+Profit by Sub-Category (e.g., Printers, Bookcases, Saree, Accessories, Tables)
 
 Pie & Donut Charts:
 
-Donut Chart: Quantity by Product Category
+Donut Chart: Quantity by Product Category (e.g., Furniture: 17%, Electronics: 21%, Clothing: 63%)
 
-Pie Chart: Quantity by Payment Mode
+Pie Chart: Quantity by Payment Mode (e.g., COD: 2456 (44%), UPI: 1157 (21%), Debit Card: 741 (13%), Credit Card: 672 (12%), EMI: 589 (10%))
 
 Slicer Filters:
 
@@ -38,7 +36,8 @@ State Filter
 
 Time Period Selector (Quarterly)
 
-Screenshots: Link to screenshots
+The screenshot of your dashboard:
+
 
 Requirements:
 
@@ -50,10 +49,7 @@ How to Use:
 
 Clone the Repository:
 
-shell
-
-Copy
-git clone https://github.com/yourusername/ecommerce-sales-dashboard.git
+Screenshot 
 Open the Dashboard File:
 
 Launch Power BI Desktop.
@@ -76,4 +72,4 @@ Data Source 1: Sales Data (sales_data.csv)
 
 Columns: Order ID, Product ID, Product Category, Sub-Category, Customer Name, Payment Mode, State, Quantity, Price, Date, etc.
 
-Contact
+Contact: For any questions or suggestions, please contact: Gmail: karishmat0999@gmail.com
