@@ -49,7 +49,9 @@ How to Use:
 
 Clone the Repository:
 
-Screenshot 
+Screenshot
+![Screenshot 2024-10-18 114510](https://github.com/user-attachments/assets/f97f8123-0c19-4545-8011-ca9aa3d34b34)
+
 Open the Dashboard File:
 
 Launch Power BI Desktop.
